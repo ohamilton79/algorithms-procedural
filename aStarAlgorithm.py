@@ -1,7 +1,6 @@
 #ohamilton79
 #A* shortest-path algorithm
 #02/01/2021
-
 import time
 
 begin = time.time()
